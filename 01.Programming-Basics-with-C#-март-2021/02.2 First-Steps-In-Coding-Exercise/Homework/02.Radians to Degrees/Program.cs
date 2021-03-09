@@ -8,6 +8,7 @@ namespace _02.Radians_to_Degrees
         {
             double input = double.Parse(Console.ReadLine());
             double result = input * 180 / Math.PI;
+
             Console.WriteLine(Math.Round(result));
         }
     }

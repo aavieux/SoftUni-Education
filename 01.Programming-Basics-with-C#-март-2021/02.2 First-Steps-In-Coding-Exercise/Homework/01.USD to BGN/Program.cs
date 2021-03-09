@@ -8,6 +8,7 @@ namespace _01.USD_to_BGN
         {
             double input = double.Parse(Console.ReadLine());
             double convertedPrice = input * 1.79549;
+
             Console.WriteLine(convertedPrice);
         }
     }

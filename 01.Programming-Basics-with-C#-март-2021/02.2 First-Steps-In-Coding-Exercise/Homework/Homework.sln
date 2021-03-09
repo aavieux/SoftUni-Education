@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Vacation books list", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Birthday party", "05.Birthday party\05.Birthday party.csproj", "{03A16163-EB3A-4C42-972E-E5229033FA49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Charity Campaign", "06.Charity Campaign\06.Charity Campaign.csproj", "{6EADDA17-E134-4771-9D5B-B815D4A07C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Charity Campaign", "06.Charity Campaign\06.Charity Campaign.csproj", "{6EADDA17-E134-4771-9D5B-B815D4A07C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Fruit Market", "07.Fruit Market\07.Fruit Market.csproj", "{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Fruit Market", "07.Fruit Market\07.Fruit Market.csproj", "{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Fish Tank", "08.Fish Tank\08.Fish Tank.csproj", "{2C2ADB91-E12D-4D62-A8A7-C305D61890E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2ADB91-E12D-4D62-A8A7-C305D61890E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2ADB91-E12D-4D62-A8A7-C305D61890E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2ADB91-E12D-4D62-A8A7-C305D61890E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2ADB91-E12D-4D62-A8A7-C305D61890E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

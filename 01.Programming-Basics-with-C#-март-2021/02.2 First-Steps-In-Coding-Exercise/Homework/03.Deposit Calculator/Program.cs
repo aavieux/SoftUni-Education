@@ -12,6 +12,7 @@ namespace _03.Deposit_Calculator
             double percent = double.Parse(Console.ReadLine());
 
             sum = deposit + months * ((deposit * percent/100) / 12);
+
             Console.WriteLine(sum);
         }
     }
