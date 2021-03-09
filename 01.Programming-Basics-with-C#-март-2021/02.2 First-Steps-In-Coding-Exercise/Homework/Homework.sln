@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.USD to BGN", "01.USD to BGN\01.USD to BGN.csproj", "{9606E448-F08B-4155-A975-073FB61CCE5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.USD to BGN", "01.USD to BGN\01.USD to BGN.csproj", "{9606E448-F08B-4155-A975-073FB61CCE5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Radians to Degrees", "02.Radians to Degrees\02.Radians to Degrees.csproj", "{DDD33C00-B115-49F6-9F47-0C37E7210214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Radians to Degrees", "02.Radians to Degrees\02.Radians to Degrees.csproj", "{DDD33C00-B115-49F6-9F47-0C37E7210214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Deposit Calculator", "03.Deposit Calculator\03.Deposit Calculator.csproj", "{534B4089-2B5F-4B4B-978D-D73642E2654A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Deposit Calculator", "03.Deposit Calculator\03.Deposit Calculator.csproj", "{534B4089-2B5F-4B4B-978D-D73642E2654A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Vacation books list", "04.Vacation books list\04.Vacation books list.csproj", "{09EEBA91-22B6-4D38-80DE-F8B3A2379881}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Vacation books list", "04.Vacation books list\04.Vacation books list.csproj", "{09EEBA91-22B6-4D38-80DE-F8B3A2379881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Birthday party", "05.Birthday party\05.Birthday party.csproj", "{03A16163-EB3A-4C42-972E-E5229033FA49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Birthday party", "05.Birthday party\05.Birthday party.csproj", "{03A16163-EB3A-4C42-972E-E5229033FA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Charity Campaign", "06.Charity Campaign\06.Charity Campaign.csproj", "{6EADDA17-E134-4771-9D5B-B815D4A07C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Fruit Market", "07.Fruit Market\07.Fruit Market.csproj", "{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{03A16163-EB3A-4C42-972E-E5229033FA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A16163-EB3A-4C42-972E-E5229033FA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A16163-EB3A-4C42-972E-E5229033FA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EADDA17-E134-4771-9D5B-B815D4A07C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EADDA17-E134-4771-9D5B-B815D4A07C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EADDA17-E134-4771-9D5B-B815D4A07C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EADDA17-E134-4771-9D5B-B815D4A07C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93DEADB-E4B0-4DD9-98EB-6BE2546360C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
