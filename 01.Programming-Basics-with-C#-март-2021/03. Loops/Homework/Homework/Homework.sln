@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Excellent Result", "01.E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Greater Number", "02.Greater Number\02.Greater Number.csproj", "{54E10CC2-87D9-46EF-AC58-CFAD63C625BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Even or Odd", "03.Even or Odd\03.Even or Odd.csproj", "{1AB1C81B-65CB-4B6E-B829-DE95E5A46A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Even or Odd", "03.Even or Odd\03.Even or Odd.csproj", "{1AB1C81B-65CB-4B6E-B829-DE95E5A46A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Number 100-200", "04.Number 100-200\04.Number 100-200.csproj", "{27152687-41A8-4E24-B85C-C24E6D446FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Number 100-200", "04.Number 100-200\04.Number 100-200.csproj", "{27152687-41A8-4E24-B85C-C24E6D446FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Password Guess", "05.Password Guess\05.Password Guess.csproj", "{968E2696-FA46-45B7-924E-39B1E9AFE42B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Password Guess", "05.Password Guess\05.Password Guess.csproj", "{968E2696-FA46-45B7-924E-39B1E9AFE42B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Area of Figures", "06.Area of Figures\06.Area of Figures.csproj", "{F03594F2-5C52-4D27-98F7-A973AEDB0CA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Area of Figures", "06.Area of Figures\06.Area of Figures.csproj", "{F03594F2-5C52-4D27-98F7-A973AEDB0CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Toy Shop", "07.Toy Shop\07.Toy Shop.csproj", "{1197EE5E-D7E2-4B7F-B869-AFF462A11365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F03594F2-5C52-4D27-98F7-A973AEDB0CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03594F2-5C52-4D27-98F7-A973AEDB0CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03594F2-5C52-4D27-98F7-A973AEDB0CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1197EE5E-D7E2-4B7F-B869-AFF462A11365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1197EE5E-D7E2-4B7F-B869-AFF462A11365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1197EE5E-D7E2-4B7F-B869-AFF462A11365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1197EE5E-D7E2-4B7F-B869-AFF462A11365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
